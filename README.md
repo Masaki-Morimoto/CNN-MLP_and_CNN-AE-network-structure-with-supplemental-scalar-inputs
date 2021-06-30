@@ -9,11 +9,9 @@ In this repostiry, two types of the network are provided;
 Although the provided code corresponds to 'Case 1' stated in the paper (which concatenates the scalar value at the earliest layer of the network), it can easily be modified for the other cases as demonstrated in our [arXiv](https://arxiv.org/abs/2101.02535).
 A detailed information for the construction of the networks are stated in tabels 1--3 in the paper.
 
-Vorticity field             |  Grad-CAM map
+CNN-MLP             |  CNN autoencoder
 :-------------------------:|:-------------------------:
-![alt text](https://github.com//Masaki-Morimoto/CNN-MLP_and_CNN-AE-network-structure-with-supplemental-scalar-inputs
-/blob/images/fig3_CNN-MLP.png?raw=true)  |  ![alt text](https://github.com//Masaki-Morimoto/CNN-MLP_and_CNN-AE-network-structure-with-supplemental-scalar-inputs
-/blob/images/fig4_CNN-AE.png?raw=true)
+![alt text](https://github.com//Masaki-Morimoto/CNN-MLP_and_CNN-AE-network-structure-with-supplemental-scalar-inputs/blob/images/fig3_CNN-MLP.png?raw=true)  |  ![alt text](https://github.com//Masaki-Morimoto/CNN-MLP_and_CNN-AE-network-structure-with-supplemental-scalar-inputs/blob/images/fig4_CNN-AE.png?raw=true)
 
 <div style="text-align: center;">Vorticity field of a cylinder wake (input data) and its Grad-CAM map of the force coefficient estimation.</div>
 
