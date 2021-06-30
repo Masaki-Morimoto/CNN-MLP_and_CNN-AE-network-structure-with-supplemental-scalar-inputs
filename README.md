@@ -11,7 +11,7 @@ A detailed information for the construction of the networks are stated in tabels
 
 Vorticity field             |  Grad-CAM map
 :-------------------------:|:-------------------------:
-![alt text](https://github.com//Masaki-Morimoto/Grad-CAM_for_fluid-flows/blob/images/vorticity.png?raw=true)  |  ![alt text](https://github.com//Masaki-Morimoto/Grad-CAM_for_fluid-flows/blob/images/grad-cam.png?raw=true)
+![alt text](https://github.com//Masaki-Morimoto/Grad-CAM_for_fluid-flows/blob/images/fig3_CNN-MLP.png?raw=true)  |  ![alt text](https://github.com//Masaki-Morimoto/Grad-CAM_for_fluid-flows/blob/images/grad-cam.png?raw=true)
 
 <div style="text-align: center;">Vorticity field of a cylinder wake (input data) and its Grad-CAM map of the force coefficient estimation.</div>
 
