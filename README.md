@@ -21,11 +21,13 @@ Author: Masaki Morimoto ([Keio University](https://kflab.jp/ja/))
 
 This repository contains
 
-Grad-CAM_for_CD-prediction_cylinder.ipynb
+CNN-MLP_model_with_scalar-input.py
+CNN-AE_model_with_scalar_input.py
+
 
 For citations, please use the reference below:
 
-Masaki Morimoto, Kai Fukami, Kai Zhang, and Koji Fukagata "Generalization techniques of neural networks for fluid flow estimation," arXiv:2011.11911 (2020).
+Masaki Morimoto, Kai Fukami, Kai Zhang, Aditya, G. Nair, and Koji Fukagata "Convolutional neural networks for fluid flow analysis: toward effective metamodeling and low-dimensionalization," arXiv:2101.02535 (2020).
 
 Authors provide no guarantees for this code.
 Use as-is and for academic research use only; no commercial use allowed without permission.
