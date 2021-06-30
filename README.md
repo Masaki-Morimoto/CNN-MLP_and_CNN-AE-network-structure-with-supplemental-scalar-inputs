@@ -22,6 +22,7 @@ Author: Masaki Morimoto ([Keio University](https://kflab.jp/ja/))
 This repository contains
 
 CNN-MLP_model_with_scalar-input.py
+
 CNN-AE_model_with_scalar_input.py
 
 
