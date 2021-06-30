@@ -4,7 +4,7 @@ This repository contains source codes utilized in a part of "Convolutional neura
 
 In this repostiry, sample codes for two types of neural networks are provided;
 1. a CNN-MLP type neural network which is trained to estimate drag and lift force coefficient of flow over a flat plate with its supplemental scalar values, i.e., a Re number and an angle of attack
-2. a CNN autoeoncder which is trained to low-dimensionalize a two-dimensional isotropic homogeneous decaying turbulence with its supplemental scalar values, i.e., an initial Re number
+2. a CNN autoencoder which is trained to low-dimensionalize a two-dimensional isotropic homogeneous decaying turbulence with its supplemental scalar values, i.e., an initial Re number
 
 Although the provided code corresponds to 'Case 1' stated in the paper (which concatenates the scalar value at the earliest layer of the network), it can easily be modified for the other cases as demonstrated in our [arXiv](https://arxiv.org/abs/2101.02535).
 A detailed information for the construction of the networks are stated in tabels 1--3 in the paper.
