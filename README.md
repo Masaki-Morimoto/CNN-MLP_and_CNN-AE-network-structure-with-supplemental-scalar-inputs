@@ -1,8 +1,8 @@
 ## CNN-MLP and CNN autoencoder with supplemental scalar values
 
-This repository contains a simple source code utilized in a part of "Convolutional neural networks for fluid flow analysis: toward effective metamodeling and low-dimensionalization," arXiv:2101.02535 [physics.flu-dyn.].
+This repository contains source codes utilized in a part of "Convolutional neural networks for fluid flow analysis: toward effective metamodeling and low-dimensionalization," arXiv:2101.02535 [physics.flu-dyn.].
 
-In this repostiry, two types of the network are provided;
+In this repostiry, sample codes for two types of neural networks are provided;
 1. a CNN-MLP type neural network which is trained to estimate drag and lift force coefficient of flow over a flat plate with its supplemental scalar values, i.e., a Re number and an angle of attack
 2. a CNN autoeoncder which is trained to low-dimensionalize a two-dimensional isotropic homogeneous decaying turbulence with its supplemental scalar values, i.e., an initial Re number
 
