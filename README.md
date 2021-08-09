@@ -27,7 +27,7 @@ This repository contains
 
 For citations, please use the reference below:
 
-Masaki Morimoto, Kai Fukami, Kai Zhang, Aditya, G. Nair, and Koji Fukagata "Convolutional neural networks for fluid flow analysis: toward effective metamodeling and low-dimensionalization," arXiv:2101.02535 (2020).
+Masaki Morimoto, Kai Fukami, Kai Zhang, Aditya, G. Nair, and Koji Fukagata "Convolutional neural networks for fluid flow analysis: toward effective metamodeling and low-dimensionalization," Theor. Comput. Fluid Dyn. (2021) (https://doi.org/10.1007/s00162-021-00580-0).
 
 Authors provide no guarantees for this code.
 Use as-is and for academic research use only; no commercial use allowed without permission.
