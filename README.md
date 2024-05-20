@@ -17,7 +17,7 @@ CNN-MLP             |  CNN autoencoder
 
 ## Information
 
-Author: Masaki Morimoto ([Keio University](https://kflab.jp/ja/)) and Kai Fukami ([UCLA](https://sites.google.com/view/kai-fukami/home?authuser=0))
+Author: Masaki Morimoto (Keio University) and [Kai Fukami](https://sites.google.com/view/kai-fukami/home?authuser=0) (UCLA)
 
 This repository contains
 
